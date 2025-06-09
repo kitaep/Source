@@ -452,7 +452,7 @@ body[class*=" gh-font-heading"]:not(.gh-font-heading-fira-sans):not(.gh-font-hea
 }
 
 .gh-navigation-logo img {
-    max-height: 40px;
+    max-height: 80px;
 }
 
 .gh-navigation-menu {
@@ -2058,7 +2058,7 @@ Search                         LOGO                    Login Subscribe
 }
 
 .gh-article-image {
-    grid-column: wide;
+    /* grid-column: wide; */
     margin-top: 40px;
 }
 
